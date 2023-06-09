@@ -46,7 +46,7 @@ struct ContentView: View {
                 
                 
                 NavigationLink(destination: secondView_()) {
-                    Text ("next")
+                    Text ("Next")
                 }
                 
                 
